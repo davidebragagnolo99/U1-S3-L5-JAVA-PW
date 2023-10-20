@@ -1,4 +1,4 @@
-package davidebragagnolo;
+package davidebragagnolo.catalogo;
 
 public class Application {
 

@@ -4,11 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a9b562a-236d-4fb6-a3f7-84268c58d84e" name="Changes" comment="" />
+    <list default="true" id="0a9b562a-236d-4fb6-a3f7-84268c58d84e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/davidebragagnolo/entities/ElementoCatalogo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/davidebragagnolo/entities/Libro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/davidebragagnolo/entities/Prenotazione.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/davidebragagnolo/entities/Utente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/davidebragagnolo/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/davidebragagnolo/catalogo/Application.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -22,6 +37,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
