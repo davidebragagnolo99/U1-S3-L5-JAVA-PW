@@ -17,6 +17,7 @@ import java.util.UUID;
 @AllArgsConstructor
 public class Prestito {
     @Id
+    @GeneratedValue
     private UUID id;
     @ManyToOne
     @JoinColumn(name = "utente_id")
