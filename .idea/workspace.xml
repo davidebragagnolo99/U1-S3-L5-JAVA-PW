@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a9b562a-236d-4fb6-a3f7-84268c58d84e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/davidebragagnolo/catalogo/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/davidebragagnolo/catalogo/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/davidebragagnolo/dao/LibroDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/davidebragagnolo/dao/PrenotazioneDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/davidebragagnolo/dao/PrestitoDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/davidebragagnolo/dao/PrestitoDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/davidebragagnolo/dao/RivistaDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/davidebragagnolo/entities/ElementoCatalogo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/davidebragagnolo/entities/ElementoCatalogo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/davidebragagnolo/entities/Prenotazione.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/davidebragagnolo/entities/Prestito.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/davidebragagnolo/entities/Prestito.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/davidebragagnolo/entities/Utente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/davidebragagnolo/entities/Utente.java" afterDir="false" />
-    </list>
+    <list default="true" id="0a9b562a-236d-4fb6-a3f7-84268c58d84e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
